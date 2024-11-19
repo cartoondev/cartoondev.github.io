@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[735],{7735:(e,u,n)=>{n.r(u),n.d(u,{NotFoundPage:()=>t});var p=n(3564),s=n(9950);function t(){const e=(0,p.Zp)();return(0,s.useEffect)((()=>{e("/")}),[e]),null}}}]);
